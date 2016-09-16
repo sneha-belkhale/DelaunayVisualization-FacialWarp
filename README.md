@@ -5,8 +5,8 @@ and displays a cool visualization of its delauney subdivision.
 b&w:
 ![Alt text](/Screen Shot 2016-09-13 at 11.08.06 PM.png?raw=true "Delaunay Visualization")
 colorized:
-![Alt text](/Screen Shot 2016-09-16 at 2.53.50 PM?raw=true "Delaunay Visualization")
-![Alt text](/Screen Shot 2016-09-16 at 2.53.41 PM?raw=true "Delaunay Visualization")
+![Alt text](/Screen Shot 2016-09-16 at 2.53.50 PM.png?raw=true "Delaunay Visualization")
+![Alt text](/Screen Shot 2016-09-16 at 2.53.41 PM.png?raw=true "Delaunay Visualization")
 
 
 Then (inspired by the snapchat filters) I use the delaunay triangulation and affine warping to transform the face into a.. 
