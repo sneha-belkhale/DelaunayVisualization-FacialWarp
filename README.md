@@ -3,8 +3,10 @@ This is a python script that takes in a portrait image, uses built in OpenCV Haa
 and displays a cool visualization of its delauney subdivision.  
 ![Alt text](/michaelcera.jpg "Original Michael Cera")
 b&w:
+
 ![Alt text](/Screen Shot 2016-09-13 at 11.08.06 PM.png?raw=true "Delaunay Visualization")
 colorized:
+
 ![Alt text](/Screen Shot 2016-09-16 at 2.53.50 PM.png?raw=true "Delaunay Visualization")
 ![Alt text](/Screen Shot 2016-09-16 at 2.53.41 PM.png?raw=true "Delaunay Visualization")
 
