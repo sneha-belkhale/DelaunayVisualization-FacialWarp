@@ -2,7 +2,7 @@
 This is a python script that takes in a portrait image, uses built in OpenCV Haar Cascades to find the 68 facial landmarks, 
 and displays a cool visualization of its delauney subdivision.  
 
-![alt tag](http://www.freedigitalphotos.net/images/img/homepage/golf-1-top-82328.jpg)
+![alt tag](DelaunayVisualization-FacialWarp/michaelcera.jpg)
 
 Then (inspired by the snapchat filters) I use the delaunay triangulation and affine warping to transform the face into a.. 
 chubby baby..? 
