@@ -162,8 +162,8 @@ def drawColoredTriangles(img, triangleList, disp):
         #create the triangle
         triangle = np.array([pt1, pt2, pt3], np.int32)
         #select a color in HSV!! (manipulate idx for cool color gradients)
-        #color = np.uint8([[[idx , 100, 200]]])
-        color = np.uint8([[[0, 0, idx]]])
+        color = np.uint8([[[idx, 100, 200]]])
+        #color = np.uint8([[[0, 0, idx]]])
         #convert color to BGR
         bgr_color = cv2.cvtColor(color, cv2.COLOR_HSV2BGR)
         color = (int(bgr_color[(0, 0, 0)]), int(bgr_color[(0, 0, 1)]), int(bgr_color[(0, 0, 2)]))
