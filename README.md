@@ -8,6 +8,7 @@ b&w:
 colorized:
 
 ![Alt text](/Screen Shot 2016-09-16 at 2.53.50 PM.png?raw=true "Delaunay Visualization")
+
 ![Alt text](/Screen Shot 2016-09-16 at 2.53.41 PM.png?raw=true "Delaunay Visualization")
 
 
