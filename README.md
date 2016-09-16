@@ -15,4 +15,4 @@ chubby baby..
 ![Alt text](/Screen Shot 2016-09-13 at 11.19.29 AM.png?raw=true "Face Warping")
 
 I plan on experimenting with this facial warping more so that this filtering can be done autonomously 
-(right now it is slightly catered to the michaelcera.jpg image provided)
+( right now it is slightly catered to the michaelcera.jpg image provided )
